@@ -1,0 +1,17 @@
+.recipe-list {
+  justify-content: space-between;
+}
+
+.recipe-list li {
+  width: 30%;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #010;
+  border-radius: 5px;
+}
+
+.food-description {
+  width: 100%;
+  border-radius: 5px;
+  display: block;
+}
